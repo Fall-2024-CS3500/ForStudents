@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\for3500eventsaddviacode\\for3500eventsaddviacode\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|solutionrelative:for3500eventsaddviacode\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\for3500eventsaddviacode\\for3500eventsaddviacode\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|solutionrelative:for3500eventsaddviacode\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\for3500eventsaddviacode\\for3500eventsaddviacode\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|solutionrelative:for3500eventsaddviacode\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\for3500eventsaddviacode\\for3500eventsaddviacode\\myentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|solutionrelative:for3500eventsaddviacode\\myentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\for3500eventsaddviacode\\for3500eventsaddviacode\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A2DE095-02C2-4E5F-B19E-F6C959A121AD}|For3500EventsAddViaCode\\For3500EventsAddViaCode.csproj|solutionrelative:for3500eventsaddviacode\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\AppShell.xaml",
+              "RelativeDocumentMoniker": "For3500EventsAddViaCode\\AppShell.xaml",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\AppShell.xaml",
+              "RelativeToolTip": "For3500EventsAddViaCode\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T22:32:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\MainPage.xaml",
+              "RelativeDocumentMoniker": "For3500EventsAddViaCode\\MainPage.xaml",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\MainPage.xaml",
+              "RelativeToolTip": "For3500EventsAddViaCode\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T22:32:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "For3500EventsAddViaCode\\MauiProgram.cs",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\MauiProgram.cs",
+              "RelativeToolTip": "For3500EventsAddViaCode\\MauiProgram.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:31:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyEntry.cs",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\MyEntry.cs",
+              "RelativeDocumentMoniker": "For3500EventsAddViaCode\\MyEntry.cs",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\MyEntry.cs",
+              "RelativeToolTip": "For3500EventsAddViaCode\\MyEntry.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:29:49.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\App.xaml",
+              "RelativeDocumentMoniker": "For3500EventsAddViaCode\\App.xaml",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\For3500EventsAddViaCode\\For3500EventsAddViaCode\\App.xaml",
+              "RelativeToolTip": "For3500EventsAddViaCode\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T22:28:42.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
