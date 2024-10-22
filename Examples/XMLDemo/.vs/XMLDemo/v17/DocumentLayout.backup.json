@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D31B91-C1BD-4488-9D1D-91727FE9FD68}|XMLDemo\\XMLDemo.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\xmldemo\\xmldemo\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D31B91-C1BD-4488-9D1D-91727FE9FD68}|XMLDemo\\XMLDemo.csproj|solutionrelative:xmldemo\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D31B91-C1BD-4488-9D1D-91727FE9FD68}|XMLDemo\\XMLDemo.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\xmldemo\\xmldemo\\xmldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06D31B91-C1BD-4488-9D1D-91727FE9FD68}|XMLDemo\\XMLDemo.csproj|solutionrelative:xmldemo\\xmldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E05891-38D4-4576-9F1F-19CEBFFD574C}|Nations\\Nations.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\pas\\forstudents\\examples\\xmldemo\\nations\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E05891-38D4-4576-9F1F-19CEBFFD574C}|Nations\\Nations.csproj|solutionrelative:nations\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo.cs",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\XMLDemo\\demo.cs",
+              "RelativeDocumentMoniker": "XMLDemo\\demo.cs",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\XMLDemo\\demo.cs",
+              "RelativeToolTip": "XMLDemo\\demo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwCsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:50:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLDemo",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\XMLDemo\\XMLDemo.csproj",
+              "RelativeDocumentMoniker": "XMLDemo\\XMLDemo.csproj",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\XMLDemo\\XMLDemo.csproj",
+              "RelativeToolTip": "XMLDemo\\XMLDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T16:50:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\Nations\\State.cs",
+              "RelativeDocumentMoniker": "Nations\\State.cs",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\Nations\\State.cs",
+              "RelativeToolTip": "Nations\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:45:37.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

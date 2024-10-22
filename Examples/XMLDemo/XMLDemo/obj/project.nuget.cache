@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpyNQDwkfU8=",
+  "success": true,
+  "projectFilePath": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\PAs\\ForStudents\\Examples\\XMLDemo\\XMLDemo\\XMLDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\bin\Debug\net8.0\Nations.deps.json
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\bin\Debug\net8.0\Nations.dll
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\bin\Debug\net8.0\Nations.pdb
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\Nations.GeneratedMSBuildEditorConfig.editorconfig
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\Nations.AssemblyInfoInputs.cache
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\Nations.AssemblyInfo.cs
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\Nations.csproj.CoreCompileInputs.cache
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\Nations.dll
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\refint\Nations.dll
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\Nations.pdb
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\XMLDemo\Nations\obj\Debug\net8.0\ref\Nations.dll

@@ -1,0 +1,14 @@
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\bin\Debug\net8.0\SelfDocumentingCode.exe
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\bin\Debug\net8.0\SelfDocumentingCode.deps.json
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\bin\Debug\net8.0\SelfDocumentingCode.runtimeconfig.json
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\bin\Debug\net8.0\SelfDocumentingCode.dll
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\bin\Debug\net8.0\SelfDocumentingCode.pdb
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.AssemblyInfoInputs.cache
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.AssemblyInfo.cs
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.csproj.CoreCompileInputs.cache
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.dll
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\refint\SelfDocumentingCode.dll
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.pdb
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\SelfDocumentingCode.genruntimeconfig.cache
+D:\0.UAC_classes\0.6Fall2024\CS3500\PAs\ForStudents\Examples\SelfDocumentingCode\SelfDocumentingCode\obj\Debug\net8.0\ref\SelfDocumentingCode.dll
