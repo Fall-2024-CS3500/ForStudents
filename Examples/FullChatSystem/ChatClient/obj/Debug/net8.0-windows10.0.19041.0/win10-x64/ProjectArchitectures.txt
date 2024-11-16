@@ -1,0 +1,1 @@
+D:\0.UAC_classes\0.6Fall2024\CS3500\LAB\Fall2024\ForStudents\Examples\FullChatSystem\ChatClient\ChatClient.csproj;x64

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\LAB\\Fall2024\\ForStudents\\Examples\\FullChatSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96860E0C-8854-457D-96A7-FB199C4365E6}|ChatServer\\ChatServer.csproj|d:\\0.uac_classes\\0.6fall2024\\cs3500\\lab\\fall2024\\forstudents\\examples\\fullchatsystem\\chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96860E0C-8854-457D-96A7-FB199C4365E6}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\LAB\\Fall2024\\ForStudents\\Examples\\FullChatSystem\\ChatServer\\ChatServer.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServer.cs",
+              "ToolTip": "D:\\0.UAC_classes\\0.6Fall2024\\CS3500\\LAB\\Fall2024\\ForStudents\\Examples\\FullChatSystem\\ChatServer\\ChatServer.cs",
+              "RelativeToolTip": "ChatServer\\ChatServer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:02:31.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
